@@ -7,15 +7,15 @@
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "env": {
     "SMOOCH_APP_TOKEN": {
-      "description": "8d6kia5693nt5kh9avcj137zn",
+      "description": "35wbguix2uwhd4j2kzzgllv2k",
       "required": true
     },
     "SMOOCH_KEY_ID": {
-      "description": "app_57efa67922aae7490156e461",
+      "description": "app_580ab5e28c14575e0019ee16",
       "required": true
     },
     "SMOOCH_SECRET": {
-      "description": "qW01GrKagedACL3pQ9qz7AVR",
+      "description": "iMRdi-7nsK7h6MDhKRkZCIE0",
       "required": true
     }
   }
